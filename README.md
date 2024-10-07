@@ -7,6 +7,7 @@
 :grey_question: Pending Submission
 :interrobang: Finished, with Pending Revision
 
+In the status list, the first column is Overworld Sprites, the second column is Portraits.
 
 
 **MAIN WEBSITE**
@@ -43,7 +44,7 @@ However, there are some special submission cases that warrant the creation of ne
 
 If a special use-case sprite or portrait does not fit into any of the above categories, it will not be accepted into the Sprite Repository.
 
-
+ 
 **COMMANDS**
 
 All commands are case-insensitive.
